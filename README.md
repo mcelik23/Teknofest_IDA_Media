@@ -1,21 +1,18 @@
 # Teknofest Autonomous Marine Vehicle (IDA) - Technical Showcase
 
-Bu depo, Teknofest İnsansız Deniz Aracı (İDA) yarışması kapsamında geliştirilen otonom seyrüsefer sisteminin saha testlerini ve operasyonel performans kayıtlarını içermektedir.
+Bu depo, Teknofest İnsansız Deniz Aracı (İDA) yarışması kapsamında geliştirilen otonom seyrüsefer sisteminin simülasyon testlerini ve operasyonel performans kayıtlarını içermektedir.
 
-Not: Yarışma kuralları ve stratejik gizlilik prensipleri gereği, yazılım mimarisi detayları ve kaynak kodlar bu alanda paylaşılmamaktadır. Sistemin görev icra yetkinliği, aşağıdaki test kayıtları ve depo içerisindeki media/ dizini ile belgelenmiştir.
+Not: Yarışma kuralları ve stratejik gizlilik prensipleri gereği, yazılım mimarisi detayları ve kaynak kodlar bu alanda paylaşılmamaktadır. Sistemin görev icra yetkinliği, aşağıdaki simülasyon kayıtları ve depo içerisindeki media/ dizini ile belgelenmiştir.
 
 ---
 
-## Saha Testleri (Real Time)
+## Simülasyon Testleri
 
-Trabzon sahil şeridinde gerçekleştirilen gerçek zamanlı testler; akıntı ve dalga direncine karşı sistemin otonom stabilizasyon ve hedef takibi yeteneklerini doğrulamaktadır.
+Gazebo ve RViz ortamlarında kurgulanan simülasyonlar, gerçek dünya koşullarına geçmeden önce sistemin uç senaryolardaki karar mekanizmalarını ve sensör verisi doğrulama süreçlerini kapsamaktadır.
 
-<div align="center">
-  <video src="media/simulation/2026_Hibrit.mp4" width="800" controls>
-    Tarayıcınız video etiketini desteklemiyor.
-  </video>
-  <p><i>Saha Testi: Otonom Rota Takibi ve Manevra Kabiliyeti</i></p>
-</div>
+https://github.com/mcelik23/Teknofest_IDA_Media/blob/main/media/simulation/2026_Hibrit.mp4
+
+*Simülasyon Testi: Sensör Füzyonu ve Otonom Seyrüsefer Senaryosu*
 
 ---
 
@@ -28,3 +25,4 @@ Geliştirilen yazılım stack'i, aşağıdaki temel otonom görevleri icra etmek
 * **Engel Sakınma:** Statik ve dinamik engellere karşı geliştirilen karar mekanizmaları.
 
 ---
+
