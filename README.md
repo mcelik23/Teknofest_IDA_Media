@@ -1,6 +1,6 @@
-# Teknofest Autonomous Marine Vehicle (IDA) - Technical Showcase
+# Teknofest İnsansız Deniz Aracı (İDA)
 
-Bu depo, **Teknofest İnsansız Deniz Aracı (İDA)** yarışması kapsamında geliştirilen otonom seyrüsefer sisteminin teknik kanıtlarını, simülasyon çıktılarını ve saha testlerini içermektedir.
+Bu depo; Teknofest İDA yarışması kapsamında kaptanlığını üstlendiğim ekibimizce geliştirilen otonom deniz aracının teknik ispatlarını sunar. İçerik; nesne tespiti tabanlı seyrüsefer algoritmalarımızın simülasyon ve saha ortamlarındaki performans çıktılarını kapsamaktadır.
 
 > **Not:** Yarışma kuralları ve stratejik gizlilik gereği, yazılım mimarisi detayları ve kaynak kodlar bu alanda paylaşılmamaktadır. Sistem performansına dair teknik ispatlar aşağıda sunulmuştur.
 
